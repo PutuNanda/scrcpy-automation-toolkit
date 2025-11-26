@@ -4,7 +4,7 @@
     "local_ip": "192.168.1.30",
     "tailscale_ip": "100.73.249.128",
     "port": "5555",
-    "scrcpy_folder": "scrcpy-win64-v3.2",
+    "scrcpy_folder": "scrcpy-win64-v3.3.3",
     "timeout_delay": "3",
     "auto_reconnect_delay": "3",
     "priority": ["tailscale", "local-ip", "usb"]
